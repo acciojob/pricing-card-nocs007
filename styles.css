@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+div{
+	background-color:lightgray;
+	border: 20px solid;
+	padding: 50px;
+	border-radius:20px;
+	box-shadow: 10px 10px 5px lightblue;
+}
+#heart{
+	display: block;
+	margin: auto;
+}
+h1,#price,p{
+	text-align: center;
+}
+#button{
+	display: flex;
+	margin: auto;
+	background: lightcoral;
+}
